@@ -1,0 +1,26 @@
+﻿{
+  "MyConfig": {
+    "Setting1": "value 1"
+  },
+  "ConnectionStrings": {
+    "Wartezeit": "server=(localdb)"
+
+  },
+  "MyTypedSetting": {
+
+    "TopLeft": {
+
+      "X": "20",
+
+      "Y": "40"
+
+    },
+
+    "Title": "sample title"
+
+  }
+
+
+
+
+}
